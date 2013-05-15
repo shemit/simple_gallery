@@ -10,3 +10,7 @@ To test it out, simply do this:
 ```html
 sudo node app.js
 ```
+
+You can see an example of the gallery (as well as some self-promotion of my artwork) at work here:
+
+<a href="http://simple-gallery.aws.af.cm">Example!</a>
